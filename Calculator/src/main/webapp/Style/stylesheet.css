@@ -8,3 +8,49 @@ and open the template in the editor.
     Author     : parso
 */
 
+body{
+    
+    
+}
+h1{
+    color: grey;
+    text-align: left;
+    
+}
+.formDiv {
+    background-color: lightpink;
+    text-align: center;
+    border: 5px outset grey;
+    padding: 50px;
+    margin: 20px;
+    width: 350px;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+#B{
+    margin-left: 160px;
+    background-color: grey;
+    color: white;
+}
+
+a{
+   margin-left: 160px; 
+}
+
+a:link{
+    color: grey;
+}
+
+a:visited{
+    color:darkcyan;
+}
+
+a:hover{
+    color:black;
+    transform: scale(1.5);
+}
+
+p{
+    font-size: 20px;
+}
